@@ -105,3 +105,18 @@ def calcular_modulo(num):
         return num
     
     return num * (-1)
+
+#Calcula o delta para uma equação do segundo grau
+def calcular_delta(a, b, c):
+    return b**2 - 4 * a * c
+
+#Calcula as raízes de uma equação do segundo grau
+def formula_de_bhaskara(a, b, delta):
+    x1 = (-b + delta**0.5) / (2 * a)
+    x2 = (-b - delta**0.5) / (2 * a)
+
+    return x1, x2
+
+#Calcula a raíz quadrada de um número
+def calcular_raiz_quadrada(num):
+    return num**0.5
