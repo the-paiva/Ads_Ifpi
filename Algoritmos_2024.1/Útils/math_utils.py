@@ -5,6 +5,20 @@ def eh_igual(num1, num2):
 
     return False
 
+#Verifica se um número é maior do que o outro
+def eh_maior(num1, num2):
+    if num1 > num2:
+        return True
+    
+    return False
+
+#Verifica se um número é menor do que o outro
+def eh_menor(num1, num2):
+    if num1 < num2:
+        return True
+    
+    return False
+
 #Verifica se um número é par
 def eh_par(num):
     if num % 2 == 0:
@@ -120,3 +134,36 @@ def formula_de_bhaskara(a, b, delta):
 #Calcula a raíz quadrada de um número
 def calcular_raiz_quadrada(num):
     return num**0.5
+
+#Arrendonda um número para cima (caso a parte fracionária seja maior do que 0.5) ou
+#para baixo (caso a parte fracionária seja menor do que 0.5)
+def arredondar_numero(num):
+    if num >= 0:
+        parte_inteira = int(num)
+        parte_fracionaria = num - parte_inteira
+    else:
+        parte_inteira = int(-num)
+        parte_fracionaria = -num - parte_inteira
+
+    if parte_fracionaria >= 0.5:
+        return parte_inteira + 1
+    else:
+        return parte_inteira
+    
+#Realiza um cálculo de porcentagem
+def calcular_porcentagem(valor_base, percentual):
+    return valor_base * percentual / 100
+
+#Verifica se um número é inteiro
+def eh_inteiro(num):
+    if num - int(num) == 0:
+        return True
+    
+    return False
+
+#Verifica se um número é decimal
+def eh_decimal(num):
+    if num - int(num) != 0:
+        return True
+    
+    return False
