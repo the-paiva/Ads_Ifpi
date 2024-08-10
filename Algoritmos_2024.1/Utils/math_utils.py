@@ -40,9 +40,9 @@ def eh_primo(num):
 
     if ((num != 2 and num % 2 == 0) or (num != 3 and (dezena + unidade) % 3 == 0) or 
     (num != 5 and unidade % 5 == 0) or (num != 7 and num % 7 == 0)):
-        return True
+        return False
     
-    return False
+    return True
 
 #Retorna o maior entre dois números (Ignorando casos de números iguais)
 def checar_maior(num1, num2):

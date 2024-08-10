@@ -40,9 +40,9 @@ def eh_primo(num):
 
     if ((num != 2 and num % 2 == 0) or (num != 3 and (dezena + unidade) % 3 == 0) or 
     (num != 5 and unidade % 5 == 0) or (num != 7 and num % 7 == 0)):
-        return True
+        return False
     
-    return False
+    return True
 
 #Retorna o maior entre dois números (Ignorando casos de números iguais)
 def checar_maior(num1, num2):
@@ -83,7 +83,10 @@ def dividir_milhar(num):
 
 #Calcula a média aritmética
 def calcular_media_aritmetica(somatorio, quant_elementos):
-    return somatorio / quant_elementos
+    if quant_elementos > 0:
+        return somatorio / quant_elementos
+    
+    return 0
 
 #Verifica se os lados digitados formam um triângulo
 def eh_triangulo(maior_lado, lado_menor1, lado_menor2):
