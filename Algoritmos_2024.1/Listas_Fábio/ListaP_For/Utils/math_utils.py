@@ -170,11 +170,3 @@ def eh_decimal(num):
         return True
     
     return False
-
-#Verifica se um número é múltiplo de outro
-def eh_multiplo(num1, num2):
-    if num1 % num2 == 0:
-        return True
-    
-    return False
-
