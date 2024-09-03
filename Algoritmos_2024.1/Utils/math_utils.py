@@ -1,37 +1,25 @@
-#Verifica se dois números são iguais
-def eh_igual(num1, num2):
-    if num1 == num2:
-        return True
+#Arquivo que reúne as funções padrões referentes a operações matemáticas
 
-    return False
+
+#Verifica se dois números são iguais
+eh_igual = lambda num1, num2: True if num1 == num2 else False
+
 
 #Verifica se um número é maior do que o outro
-def eh_maior(num1, num2):
-    if num1 > num2:
-        return True
-    
-    return False
+eh_maior = lambda num, num_de_comparacao: True if num > num_de_comparacao else False
+
 
 #Verifica se um número é menor do que o outro
-def eh_menor(num1, num2):
-    if num1 < num2:
-        return True
-    
-    return False
+eh_menor = lambda num, num_de_comparacao: True if num < num_de_comparacao else False
+
 
 #Verifica se um número é par
-def eh_par(num):
-    if num % 2 == 0:
-        return True
-    
-    return False
+eh_par = lambda num: True if num % 2 == 0 else False
+
 
 #Verifica se um número é ímpar
-def eh_impar(num):
-    if num % 2 != 0:
-        return True
-    
-    return False
+eh_impar = lambda num: True if num % 2 != 0 else False
+
 
 #Verifica se um número é primo (Válido apenas para números entre 0 e 100)
 def eh_primo(num):
@@ -44,12 +32,14 @@ def eh_primo(num):
     
     return True
 
+
 #Retorna o maior entre dois números (Ignorando casos de números iguais)
 def checar_maior(num1, num2):
     if num1 > num2:
         return num1
     elif num2 > num1:
         return num2
+
 
 #Retorna o menor entre dois números (Ignorando casos de números iguais)
 def checar_menor(num1, num2):
@@ -58,12 +48,14 @@ def checar_menor(num1, num2):
     elif num2 > num1:
         return num2
 
+
 #Separa números com duas casas decimais
 def dividir_dezena(num):
     dezena = num // 10
     unidade = num % 10
 
     return dezena, unidade
+
 
 #Separa números com três casas decimais
 def dividir_centena(num):
@@ -73,6 +65,7 @@ def dividir_centena(num):
 
     return centena, dezena, unidade
 
+
 #Separa números com quatro casas decimais
 def dividir_milhar(num):
     milhar = num // 1000
@@ -81,51 +74,34 @@ def dividir_milhar(num):
     
     return milhar, centena, dezena, unidade
 
+
 #Calcula a média aritmética
-def calcular_media_aritmetica(somatorio, quant_elementos):
-    if quant_elementos > 0:
-        return somatorio / quant_elementos
-    
-    return 0
+calcular_media_aritmetica = lambda somatorio, quant_elementos: somatorio / quant_elementos if quant_elementos > 0 else 0
+
 
 #Verifica se os lados digitados formam um triângulo
-def eh_triangulo(maior_lado, lado_menor1, lado_menor2):
-    if lado_menor1 + lado_menor2 > maior_lado:
-        return True
-    
-    return False
+eh_triangulo = lambda maior_lado, lado_menor1, lado_menor2: True if lado_menor1 + lado_menor2 > maior_lado else False
+
 
 #Verifica se um valor é positivo
-def eh_positivo(num):
-    if num > 0:
-        return True
-    
-    return False
+eh_positivo = lambda num: True if num > 0 else False
+
     
 #Verifica se um valor é negativo
-def eh_negativo(num):
-    if num < 0:
-        return True
-    
-    return False
+eh_negativo = lambda num: True if num < 0 else False
+
 
 #Verifica se um valor é nulo (0)
-def eh_nulo(num):
-    if num == 0:
-        return True
-    
-    return False
+eh_nulo = lambda num: True if num == 0 else False
+
 
 #Calcula o módulo de um número
-def calcular_modulo(num):
-    if num >= 0:
-        return num
-    
-    return num * (-1)
+calcular_modulo = lambda num: num if num >= 0 else num * (-1)
+
 
 #Calcula o delta para uma equação do segundo grau
-def calcular_delta(a, b, c):
-    return b**2 - 4 * a * c
+calcular_delta = lambda a, b, c: b**2 - 4 * a * c
+
 
 #Calcula as raízes de uma equação do segundo grau
 def formula_de_bhaskara(a, b, delta):
@@ -134,9 +110,10 @@ def formula_de_bhaskara(a, b, delta):
 
     return x1, x2
 
+
 #Calcula a raíz quadrada de um número
-def calcular_raiz_quadrada(num):
-    return num**0.5
+calcular_raiz_quadrada = lambda num: num**0.5
+
 
 #Arrendonda um número para cima (caso a parte fracionária seja maior do que 0.5) ou
 #para baixo (caso a parte fracionária seja menor do que 0.5)
@@ -152,29 +129,23 @@ def arredondar_numero(num):
         return parte_inteira + 1
     else:
         return parte_inteira
-    
+
+
 #Realiza um cálculo de porcentagem
-def calcular_porcentagem(valor_base, percentual):
-    return valor_base * percentual / 100
+calcular_porcentagem = lambda valor_base, percentual: valor_base * percentual / 100
+
 
 #Verifica se um número é inteiro
-def eh_inteiro(num):
-    if num - int(num) == 0:
-        return True
-    
-    return False
+eh_inteiro = lambda num: True if num - int(num) == 0 else False
+
 
 #Verifica se um número é decimal
-def eh_decimal(num):
-    if num - int(num) != 0:
-        return True
-    
-    return False
+eh_decimal = lambda num: True if num - int(num) != 0 else False
+
 
 #Verifica se um número é múltiplo de outro
-def eh_multiplo(num1, num2):
-    if num1 % num2 == 0:
-        return True
-    
-    return False
+eh_multiplo = lambda num1, num2: True if num1 % num2 == 0 else False
 
+
+#Formata um número para uma quantidade específica de casas decimais
+truncar_casas_decimais = lambda num, casas_decimais: int(num * 10**casas_decimais) / 10**casas_decimais

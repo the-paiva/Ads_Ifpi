@@ -1,3 +1,6 @@
+#Arquivo que reúne as funções padrões referentes a operações com vetores
+
+
 from random import uniform, shuffle
 from io_utils import pedir_float_min_max, pedir_float
 from math_utils import truncar_casas_decimais
@@ -26,6 +29,37 @@ def inicializar_vetor_com_arquivo(vetor, nome_do_arquivo):
         vetor.append(line)
 
     return vetor
+
+
+#Função padrão para a operação de mapear os valores de um vetor
+def mapear(funcao, iteravel):
+    vetor = []
+
+    for item in iteravel:
+        vetor.append(funcao(item))
+
+    return vetor
+
+
+#Função padrão para a operação de filtrar os valores de um vetor
+def filtrar(funcao, iteravel):
+    vetor = []
+
+    for item in iteravel:
+        if funcao(item):
+            vetor.append(item)
+
+    return vetor
+
+
+#Função padrão para a operação de reduzir os valores de um vetor a um único valor
+def reduzir(funcao, iteravel, valor_inicial):
+    resultado = valor_inicial
+
+    for item in iteravel:
+        resultado = funcao(item, resultado)
+
+    return resultado
 
 
 #Trunca os valores de um vetor para uma quantidade específica de casas decimais

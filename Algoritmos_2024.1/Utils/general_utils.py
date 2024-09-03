@@ -1,8 +1,11 @@
+#Arquivo que reúne as funções padrões referentes a operações gerais de vários tipos
+
+
 #Verifica se um ano é bissexto
 #(Um ano é bissexto se for divisível por 4, exceto quando também é divisível por 100, a menos 
 #que seja divisível por 400)
-def eh_bissexto(ano):
-    return ano % 4 == 0 and (ano % 100 != 0 or ano % 400 == 0)
+eh_bissexto = lambda ano: ano % 4 == 0 and (ano % 100 != 0 or ano % 400 == 0)
+
 
 #Verifica se uma data digitada é válida
 def eh_data_valida(dia, mes, ano):
