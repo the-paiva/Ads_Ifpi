@@ -1,4 +1,4 @@
-#Atividade V - Play Number
+#Atividade V - Play Number - Versão Clássica
 
 
 from io_utils import pedir_int_min_max

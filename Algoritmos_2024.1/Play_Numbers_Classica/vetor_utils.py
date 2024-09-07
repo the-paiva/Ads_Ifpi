@@ -94,19 +94,19 @@ def adicionar_novos_valores_in_range(vetor, quant_novos_valores, limite_inferior
 
 
 #Remove um ou mais elementos de um vetor pelo seu valor exato
-def remover_valor_exato(vetor, valor_removido):
-    for valor in vetor:
-        if valor == valor_removido:
-            vetor.remove(valor_removido)
-            return remover_valor_exato(vetor, valor_removido) #Gambiarra 2 - O inimigo agora é outro
+def remover_valor_exato(vetor_original, valor_removido):
+    vetor_atualizado = []
 
-    return vetor
+    for valor in vetor_original:
+        if valor != valor_removido:
+            vetor_atualizado.append(valor)
+
+    return vetor_atualizado
 
 
 #Remove um elemento de um vetor pelo seu índice
 def remover_valor_por_indice(vetor, indice_removido):
-    vetor.remove(vetor[indice_removido])
-    return vetor
+    return vetor.remove(vetor[indice_removido])
 
 
 #Edita um valor de um vetor pelo seu índice

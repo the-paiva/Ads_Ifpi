@@ -297,7 +297,6 @@ def substituir_negativos_aleatoriamente(vetor, limite_inferior, limite_superior,
 
 
 #Agregada de menu_atualizacao_regrada - Multiplica os valores do vetor analisado por uma fração digitada pelo usuário
-#O.B.S: Não entendi bem o que era pra fazer nessa parte, então saiu essa bomba aqui
 def multiplicar_por_fracao(vetor, numerador, denominador, CASAS_DECIMAIS):
     for cont in range(len(vetor)):
         vetor[cont] *= numerador / denominador
