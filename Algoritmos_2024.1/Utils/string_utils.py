@@ -22,10 +22,6 @@ def enter_para_limpar_tela():
     system('cls')
 
 
-#Verifica se uma palavra tem mais letras do que uma determinada quantidade de letras
-tem_mais_letras = lambda palavra, piso_de_letras: True if len(palavra) > piso_de_letras else False
-
-
 #Verifica se uma letra de uma palavra é igual a uma letra de uma lista específica
 def eh_letra_especifica(letra, lista_de_letras):
     for index in range(len(lista_de_letras)):
@@ -33,3 +29,7 @@ def eh_letra_especifica(letra, lista_de_letras):
             return True
         
     return False
+
+
+#Verifica se uma palavra tem mais letras do que uma determinada quantidade de letras
+tem_mais_letras = lambda palavra, piso_de_letras: True if len(palavra) > piso_de_letras else False
