@@ -1,0 +1,20 @@
+[
+    {
+        "id": "01J81DHSQ98JBBDZQQM7ESZC76",
+        "montadora_id": "01J7V81YF4ZEACW5X949FJGS6R",
+        "nome": "Fiat UNO",
+        "valor_referencia": 40000.0,
+        "motorizacao": 80,
+        "turbo": false,
+        "automatico": false
+    },
+    {
+        "id": "01J81DKDHQ5AHZBWT3B5JTMG42",
+        "montadora_id": "01J7V7VEVRXFYH8NC74VZ3YM25",
+        "nome": "F-150",
+        "valor_referencia": 520000.0,
+        "motorizacao": 115,
+        "turbo": false,
+        "automatico": false
+    }
+]

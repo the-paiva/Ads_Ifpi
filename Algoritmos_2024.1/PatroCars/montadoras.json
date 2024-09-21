@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01J7V7YM79G71RTW70Q4Z8R8CG",
+        "nome": "CHEVROLET",
+        "pais": "EUA",
+        "ano_fundacao": 1911
+    },
+    {
+        "id": "01J7V81YF4ZEACW5X949FJGS6R",
+        "nome": "FIAT",
+        "pais": "ITÁLIA",
+        "ano_fundacao": 1899
+    },
+    {
+        "id": "01J7V7VEVRXFYH8NC74VZ3YM25",
+        "nome": "FORD",
+        "pais": "EUA",
+        "ano_fundacao": 1903
+    },
+    {
+        "id": "01J7XDPGJ1T301AX5PMYMJY2PX",
+        "nome": "TOYOTA",
+        "pais": "JAPÃO",
+        "ano_fundacao": 1937
+    }
+]

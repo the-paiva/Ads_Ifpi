@@ -1,0 +1,6 @@
+ULID: 01J81DHSQ98JBBDZQQM7ESZC76 - ID da montadora: 01J7V81YF4ZEACW5X949FJGS6R - Nome: Fiat UNO
+Valor de referência: R$ 40000.0 - Motorização: 80 Turbo: False - Automático: False
+
+ULID: 01J81DKDHQ5AHZBWT3B5JTMG42 - ID da montadora: 01J7V7VEVRXFYH8NC74VZ3YM25 - Nome: F-150
+Valor de referência: R$ 520000.0 - Motorização: 115 Turbo: False - Automático: False
+
