@@ -1,20 +1,29 @@
 [
     {
-        "id": "01J81DHSQ98JBBDZQQM7ESZC76",
-        "montadora_id": "01J7V81YF4ZEACW5X949FJGS6R",
-        "nome": "Fiat UNO",
-        "valor_referencia": 40000.0,
+        "ulid": "01J8DVHZXFB60XV41ERVFJZ5MC",
+        "montadora_id": "01J8DVDSM6XNNCV7D9R89AA0PE",
+        "nome": "UNO",
+        "valor_referencia": 35000.0,
         "motorizacao": 80,
         "turbo": false,
         "automatico": false
     },
     {
-        "id": "01J81DKDHQ5AHZBWT3B5JTMG42",
-        "montadora_id": "01J7V7VEVRXFYH8NC74VZ3YM25",
+        "ulid": "01J8DVMD502QDQW21YCNXNHY77",
+        "montadora_id": "01J8DVCZKAQV9EPE817RZHBFZQ",
         "nome": "F-150",
-        "valor_referencia": 520000.0,
-        "motorizacao": 115,
-        "turbo": false,
-        "automatico": false
+        "valor_referencia": 550000.0,
+        "motorizacao": 405,
+        "turbo": true,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8DVRQC9E0GGR5C06TPGX8P5",
+        "montadora_id": "01J8DVEBCDPW87KQ86EYJS1GXY",
+        "nome": "CAMARO",
+        "valor_referencia": 600000.0,
+        "motorizacao": 455,
+        "turbo": true,
+        "automatico": true
     }
 ]
