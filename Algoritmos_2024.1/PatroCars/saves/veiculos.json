@@ -1,0 +1,202 @@
+[
+    {
+        "ulid": "01J8KNYS5X9RD7FS56VATXERZX",
+        "modelo_id": "01J8KJZ4XKEDS851B20H8GQ2G8",
+        "cor": "VERMELHO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 350000.0,
+        "placa": "OPQ6R89",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KMNE627DJBB7YE3WGM6A3B",
+        "modelo_id": "01J8KK37XQRSFGANVQ89NXW0QC",
+        "cor": "VERMELHO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 80000.0,
+        "placa": "VWX9Y78",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KKVB4Q3ESVWWKPCEJ03F26",
+        "modelo_id": "01J8KJZ4XKEDS851B20H8GQ2G8",
+        "cor": "VERMELHO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 450000.0,
+        "placa": "EFG4H56",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KP36Z6DSD8385B67TYEZW8",
+        "modelo_id": "01J8KK5K634AREEA2B9DF4AP4M",
+        "cor": "PRETO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 130000.0,
+        "placa": "XYZ1A23",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KNQSE59Q595DW98BM01GMS",
+        "modelo_id": "01J8KK89R72M0KG6XRYVJZWG6Z",
+        "cor": "PRETO",
+        "ano_fabricacao": 2022,
+        "ano_modelo": 2021,
+        "valor": 230000.0,
+        "placa": "LMN8Q90",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KNH6DTQFZEN7SYE94YVW0F",
+        "modelo_id": "01J8KKHSH1SRX4CFASDB1BSGRF",
+        "cor": "PRETO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 60000.0,
+        "placa": "ABC1D23",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KN5BYA9NV4XY2AV8G000H3",
+        "modelo_id": "01J8KK9SN6703WDKEHVTE18NQD",
+        "cor": "PRETO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 210000.0,
+        "placa": "XYZ4F56",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KMWFFPC7D1BM17NZFCW2S4",
+        "modelo_id": "01J8KKBZK96G59BJCHG917VCDA",
+        "cor": "PRETO",
+        "ano_fabricacao": 2024,
+        "ano_modelo": 2023,
+        "valor": 180000.0,
+        "placa": "BCD3E89",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KMA1N5ZJS7E2SER4SW9KA2",
+        "modelo_id": "01J8KKD5JSZPK3KXZ8NYK2FKS0",
+        "cor": "PRETO",
+        "ano_fabricacao": 2022,
+        "ano_modelo": 2021,
+        "valor": 222000.0,
+        "placa": "GHI0J12",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KKZ007F0Q9HZY6KYQ5BYZR",
+        "modelo_id": "01J8KK1D19HFV51S3YK1T1YAKA",
+        "cor": "PRETO",
+        "ano_fabricacao": 2021,
+        "ano_modelo": 2020,
+        "valor": 120000.0,
+        "placa": "IJK7L89",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KNPVMX6M2KEM3RV6S4H0T2",
+        "modelo_id": "01J8KK89R72M0KG6XRYVJZWG6Z",
+        "cor": "PRATA",
+        "ano_fabricacao": 2024,
+        "ano_modelo": 2023,
+        "valor": 270000.0,
+        "placa": "ABC4D67",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KNEF52DP98JC68F540KRN7",
+        "modelo_id": "01J8KKJY9J875B04XEEBYMK426",
+        "cor": "PRATA",
+        "ano_fabricacao": 2022,
+        "ano_modelo": 2021,
+        "valor": 55000.0,
+        "placa": "EFG4H56",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KM4EGJM3HK6QTHQN9DBJNF",
+        "modelo_id": "01J8KKBZK96G59BJCHG917VCDA",
+        "cor": "CINZA",
+        "ano_fabricacao": 2022,
+        "ano_modelo": 2021,
+        "valor": 182000.0,
+        "placa": "UVW9X01",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KMZ347WGVMXBVH18DMS61Q",
+        "modelo_id": "01J8KKD5JSZPK3KXZ8NYK2FKS0",
+        "cor": "BRANCO",
+        "ano_fabricacao": 2024,
+        "ano_modelo": 2023,
+        "valor": 220000.0,
+        "placa": "HIJ6K12",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KMH8VANPJH8EWEX2HQNYWB",
+        "modelo_id": "01J8KK5K634AREEA2B9DF4AP4M",
+        "cor": "BRANCO",
+        "ano_fabricacao": 2022,
+        "ano_modelo": 2021,
+        "valor": 115000.0,
+        "placa": "UVW7X01",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KNMXVEYSCWCMF3M7GPRCGS",
+        "modelo_id": "01J8KK89R72M0KG6XRYVJZWG6Z",
+        "cor": "AZUL",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 250000.0,
+        "placa": "XYZ3W56",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KMDME64FX5XVXGX0X1EY7T",
+        "modelo_id": "01J8KK9SN6703WDKEHVTE18NQD",
+        "cor": "AZUL",
+        "ano_fabricacao": 2024,
+        "ano_modelo": 2023,
+        "valor": 210000.0,
+        "placa": "WXY7Z12",
+        "vendido": false
+    },
+    {
+        "ulid": "01J8KNC45TP0STZ9HGX8JX4JXX",
+        "modelo_id": "01J8KKJY9J875B04XEEBYMK426",
+        "cor": "BRANCO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 60000.0,
+        "placa": "ABC1D23",
+        "vendido": true
+    },
+    {
+        "ulid": "01J8KMC27VQBANFHCPQWA8744W",
+        "modelo_id": "01J8KK89R72M0KG6XRYVJZWG6Z",
+        "cor": "BRANCO",
+        "ano_fabricacao": 2023,
+        "ano_modelo": 2022,
+        "valor": 230000.0,
+        "placa": "STU1V34",
+        "vendido": true
+    },
+    {
+        "ulid": "01J8KMK7Q2VAT21M0S2ZF8EQ06",
+        "modelo_id": "01J8KK1D19HFV51S3YK1T1YAKA",
+        "cor": "AZUL",
+        "ano_fabricacao": 2024,
+        "ano_modelo": 2023,
+        "valor": 200000.0,
+        "placa": "JKL5M45",
+        "vendido": true
+    }
+]

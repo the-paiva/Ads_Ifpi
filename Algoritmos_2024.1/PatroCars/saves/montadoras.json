@@ -1,0 +1,26 @@
+[
+    {
+        "ulid": "01J8KJCQ6JJ5YR7STYQG00EGTM",
+        "nome": "NISSAN",
+        "pais": "JAPÃO",
+        "ano_fundacao": 1933
+    },
+    {
+        "ulid": "01J8KJB36RCEE4TDKFTAFYEX56",
+        "nome": "FIAT",
+        "pais": "ITÁLIA",
+        "ano_fundacao": 1899
+    },
+    {
+        "ulid": "01J8KJ9SFJEW7QFGJ2YQC8QMQ0",
+        "nome": "VOLKSWAGEN",
+        "pais": "ALEMANHA",
+        "ano_fundacao": 1937
+    },
+    {
+        "ulid": "01J8KJ6FQ0Y3YS53P114HY8ZGD",
+        "nome": "FORD",
+        "pais": "EUA",
+        "ano_fundacao": 1903
+    }
+]

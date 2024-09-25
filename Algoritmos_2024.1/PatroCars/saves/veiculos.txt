@@ -1,0 +1,60 @@
+ULID: 01J8KNYS5X9RD7FS56VATXERZX - ID do modelo: 01J8KJZ4XKEDS851B20H8GQ2G8
+- Cor: VERMELHO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 350000.0 - Placa: OPQ6R89 - Vendido: False
+
+ULID: 01J8KMNE627DJBB7YE3WGM6A3B - ID do modelo: 01J8KK37XQRSFGANVQ89NXW0QC
+- Cor: VERMELHO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 80000.0 - Placa: VWX9Y78 - Vendido: False
+
+ULID: 01J8KKVB4Q3ESVWWKPCEJ03F26 - ID do modelo: 01J8KJZ4XKEDS851B20H8GQ2G8
+- Cor: VERMELHO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 450000.0 - Placa: EFG4H56 - Vendido: False
+
+ULID: 01J8KP36Z6DSD8385B67TYEZW8 - ID do modelo: 01J8KK5K634AREEA2B9DF4AP4M
+- Cor: PRETO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 130000.0 - Placa: XYZ1A23 - Vendido: False
+
+ULID: 01J8KNQSE59Q595DW98BM01GMS - ID do modelo: 01J8KK89R72M0KG6XRYVJZWG6Z
+- Cor: PRETO - Ano de fabricação: 2022 - Ano do modelo: 2021- Valor: R$ 230000.0 - Placa: LMN8Q90 - Vendido: False
+
+ULID: 01J8KNH6DTQFZEN7SYE94YVW0F - ID do modelo: 01J8KKHSH1SRX4CFASDB1BSGRF
+- Cor: PRETO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 60000.0 - Placa: ABC1D23 - Vendido: False
+
+ULID: 01J8KN5BYA9NV4XY2AV8G000H3 - ID do modelo: 01J8KK9SN6703WDKEHVTE18NQD
+- Cor: PRETO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 210000.0 - Placa: XYZ4F56 - Vendido: False
+
+ULID: 01J8KMWFFPC7D1BM17NZFCW2S4 - ID do modelo: 01J8KKBZK96G59BJCHG917VCDA
+- Cor: PRETO - Ano de fabricação: 2024 - Ano do modelo: 2023- Valor: R$ 180000.0 - Placa: BCD3E89 - Vendido: False
+
+ULID: 01J8KMA1N5ZJS7E2SER4SW9KA2 - ID do modelo: 01J8KKD5JSZPK3KXZ8NYK2FKS0
+- Cor: PRETO - Ano de fabricação: 2022 - Ano do modelo: 2021- Valor: R$ 222000.0 - Placa: GHI0J12 - Vendido: False
+
+ULID: 01J8KKZ007F0Q9HZY6KYQ5BYZR - ID do modelo: 01J8KK1D19HFV51S3YK1T1YAKA
+- Cor: PRETO - Ano de fabricação: 2021 - Ano do modelo: 2020- Valor: R$ 120000.0 - Placa: IJK7L89 - Vendido: False
+
+ULID: 01J8KNPVMX6M2KEM3RV6S4H0T2 - ID do modelo: 01J8KK89R72M0KG6XRYVJZWG6Z
+- Cor: PRATA - Ano de fabricação: 2024 - Ano do modelo: 2023- Valor: R$ 270000.0 - Placa: ABC4D67 - Vendido: False
+
+ULID: 01J8KNEF52DP98JC68F540KRN7 - ID do modelo: 01J8KKJY9J875B04XEEBYMK426
+- Cor: PRATA - Ano de fabricação: 2022 - Ano do modelo: 2021- Valor: R$ 55000.0 - Placa: EFG4H56 - Vendido: False
+
+ULID: 01J8KM4EGJM3HK6QTHQN9DBJNF - ID do modelo: 01J8KKBZK96G59BJCHG917VCDA
+- Cor: CINZA - Ano de fabricação: 2022 - Ano do modelo: 2021- Valor: R$ 182000.0 - Placa: UVW9X01 - Vendido: False
+
+ULID: 01J8KMZ347WGVMXBVH18DMS61Q - ID do modelo: 01J8KKD5JSZPK3KXZ8NYK2FKS0
+- Cor: BRANCO - Ano de fabricação: 2024 - Ano do modelo: 2023- Valor: R$ 220000.0 - Placa: HIJ6K12 - Vendido: False
+
+ULID: 01J8KMH8VANPJH8EWEX2HQNYWB - ID do modelo: 01J8KK5K634AREEA2B9DF4AP4M
+- Cor: BRANCO - Ano de fabricação: 2022 - Ano do modelo: 2021- Valor: R$ 115000.0 - Placa: UVW7X01 - Vendido: False
+
+ULID: 01J8KNMXVEYSCWCMF3M7GPRCGS - ID do modelo: 01J8KK89R72M0KG6XRYVJZWG6Z
+- Cor: AZUL - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 250000.0 - Placa: XYZ3W56 - Vendido: False
+
+ULID: 01J8KMDME64FX5XVXGX0X1EY7T - ID do modelo: 01J8KK9SN6703WDKEHVTE18NQD
+- Cor: AZUL - Ano de fabricação: 2024 - Ano do modelo: 2023- Valor: R$ 210000.0 - Placa: WXY7Z12 - Vendido: False
+
+ULID: 01J8KNC45TP0STZ9HGX8JX4JXX - ID do modelo: 01J8KKJY9J875B04XEEBYMK426
+- Cor: BRANCO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 60000.0 - Placa: ABC1D23 - Vendido: True
+
+ULID: 01J8KMC27VQBANFHCPQWA8744W - ID do modelo: 01J8KK89R72M0KG6XRYVJZWG6Z
+- Cor: BRANCO - Ano de fabricação: 2023 - Ano do modelo: 2022- Valor: R$ 230000.0 - Placa: STU1V34 - Vendido: True
+
+ULID: 01J8KMK7Q2VAT21M0S2ZF8EQ06 - ID do modelo: 01J8KK1D19HFV51S3YK1T1YAKA
+- Cor: AZUL - Ano de fabricação: 2024 - Ano do modelo: 2023- Valor: R$ 200000.0 - Placa: JKL5M45 - Vendido: True
+

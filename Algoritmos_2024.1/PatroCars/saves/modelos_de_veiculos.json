@@ -1,0 +1,92 @@
+[
+    {
+        "ulid": "01J8KKHSH1SRX4CFASDB1BSGRF",
+        "montadora_id": "01J8KJB36RCEE4TDKFTAFYEX56",
+        "nome": "FIAT MOBI",
+        "valor_referencia": 60000.0,
+        "motorizacao": 75,
+        "turbo": false,
+        "automatico": false
+    },
+    {
+        "ulid": "01J8KKJY9J875B04XEEBYMK426",
+        "montadora_id": "01J8KJCQ6JJ5YR7STYQG00EGTM",
+        "nome": "NISSAN MARCH",
+        "valor_referencia": 65000.0,
+        "motorizacao": 111,
+        "turbo": false,
+        "automatico": false
+    },
+    {
+        "ulid": "01J8KK5K634AREEA2B9DF4AP4M",
+        "montadora_id": "01J8KJCQ6JJ5YR7STYQG00EGTM",
+        "nome": "NISSAN KICKS",
+        "valor_referencia": 130000.0,
+        "motorizacao": 114,
+        "turbo": false,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KK37XQRSFGANVQ89NXW0QC",
+        "montadora_id": "01J8KJB36RCEE4TDKFTAFYEX56",
+        "nome": "FIAT CRONOS",
+        "valor_referencia": 90000.0,
+        "motorizacao": 139,
+        "turbo": false,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KK9SN6703WDKEHVTE18NQD",
+        "montadora_id": "01J8KJ9SFJEW7QFGJ2YQC8QMQ0",
+        "nome": "VOLKSWAGEN TIGUAN",
+        "valor_referencia": 190000.0,
+        "motorizacao": 150,
+        "turbo": true,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KKBZK96G59BJCHG917VCDA",
+        "montadora_id": "01J8KJB36RCEE4TDKFTAFYEX56",
+        "nome": "FIAT TORO",
+        "valor_referencia": 180000.0,
+        "motorizacao": 170,
+        "turbo": true,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KKD5JSZPK3KXZ8NYK2FKS0",
+        "montadora_id": "01J8KJCQ6JJ5YR7STYQG00EGTM",
+        "nome": "NISSAN FRONTIER",
+        "valor_referencia": 220000.0,
+        "motorizacao": 190,
+        "turbo": true,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KK89R72M0KG6XRYVJZWG6Z",
+        "montadora_id": "01J8KJ6FQ0Y3YS53P114HY8ZGD",
+        "nome": "FORD RANGER",
+        "valor_referencia": 230000.0,
+        "motorizacao": 200,
+        "turbo": true,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KK1D19HFV51S3YK1T1YAKA",
+        "montadora_id": "01J8KJ9SFJEW7QFGJ2YQC8QMQ0",
+        "nome": "VOLKSWAGEN GOLF GTI",
+        "valor_referencia": 250000.0,
+        "motorizacao": 230,
+        "turbo": true,
+        "automatico": true
+    },
+    {
+        "ulid": "01J8KJZ4XKEDS851B20H8GQ2G8",
+        "montadora_id": "01J8KJ6FQ0Y3YS53P114HY8ZGD",
+        "nome": "FORD MUSTANG",
+        "valor_referencia": 300000.0,
+        "motorizacao": 466,
+        "turbo": false,
+        "automatico": true
+    }
+]

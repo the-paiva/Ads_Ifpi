@@ -1,0 +1,30 @@
+ULID: 01J8KKHSH1SRX4CFASDB1BSGRF - ID da montadora: 01J8KJB36RCEE4TDKFTAFYEX56 - Nome: FIAT MOBI
+Valor de referência: R$ 60000.0 - Motorização: 75 Turbo: False - Automático: False
+
+ULID: 01J8KKJY9J875B04XEEBYMK426 - ID da montadora: 01J8KJCQ6JJ5YR7STYQG00EGTM - Nome: NISSAN MARCH
+Valor de referência: R$ 65000.0 - Motorização: 111 Turbo: False - Automático: False
+
+ULID: 01J8KK5K634AREEA2B9DF4AP4M - ID da montadora: 01J8KJCQ6JJ5YR7STYQG00EGTM - Nome: NISSAN KICKS
+Valor de referência: R$ 130000.0 - Motorização: 114 Turbo: False - Automático: True
+
+ULID: 01J8KK37XQRSFGANVQ89NXW0QC - ID da montadora: 01J8KJB36RCEE4TDKFTAFYEX56 - Nome: FIAT CRONOS
+Valor de referência: R$ 90000.0 - Motorização: 139 Turbo: False - Automático: True
+
+ULID: 01J8KK9SN6703WDKEHVTE18NQD - ID da montadora: 01J8KJ9SFJEW7QFGJ2YQC8QMQ0 - Nome: VOLKSWAGEN TIGUAN
+Valor de referência: R$ 190000.0 - Motorização: 150 Turbo: True - Automático: True
+
+ULID: 01J8KKBZK96G59BJCHG917VCDA - ID da montadora: 01J8KJB36RCEE4TDKFTAFYEX56 - Nome: FIAT TORO
+Valor de referência: R$ 180000.0 - Motorização: 170 Turbo: True - Automático: True
+
+ULID: 01J8KKD5JSZPK3KXZ8NYK2FKS0 - ID da montadora: 01J8KJCQ6JJ5YR7STYQG00EGTM - Nome: NISSAN FRONTIER
+Valor de referência: R$ 220000.0 - Motorização: 190 Turbo: True - Automático: True
+
+ULID: 01J8KK89R72M0KG6XRYVJZWG6Z - ID da montadora: 01J8KJ6FQ0Y3YS53P114HY8ZGD - Nome: FORD RANGER
+Valor de referência: R$ 230000.0 - Motorização: 200 Turbo: True - Automático: True
+
+ULID: 01J8KK1D19HFV51S3YK1T1YAKA - ID da montadora: 01J8KJ9SFJEW7QFGJ2YQC8QMQ0 - Nome: VOLKSWAGEN GOLF GTI
+Valor de referência: R$ 250000.0 - Motorização: 230 Turbo: True - Automático: True
+
+ULID: 01J8KJZ4XKEDS851B20H8GQ2G8 - ID da montadora: 01J8KJ6FQ0Y3YS53P114HY8ZGD - Nome: FORD MUSTANG
+Valor de referência: R$ 300000.0 - Motorização: 466 Turbo: False - Automático: True
+
